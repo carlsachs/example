@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+      "node-sass": "^4.13.0",
+      "styled-components": "^4.4.0",
+      "react-particles-js": "^2.7.1",
+      "react-reveal": "^1.2.2",
+      "react-router-dom": "^5.1.2",
+      "react-typist": "^2.0.5"
+    }
+  }
